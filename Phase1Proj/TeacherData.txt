@@ -1,0 +1,5 @@
+100 suresh 9 A
+101 satish 9 B
+102 mouli 10 A
+103 kiran 10 B
+105 sunil 8 B

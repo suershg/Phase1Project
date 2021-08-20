@@ -1,0 +1,14 @@
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.csproj.AssemblyReference.cache
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.AssemblyInfoInputs.cache
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.AssemblyInfo.cs
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.csproj.CoreCompileInputs.cache
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\bin\Debug\netcoreapp3.1\Phase1Proj.exe
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\bin\Debug\netcoreapp3.1\Phase1Proj.deps.json
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\bin\Debug\netcoreapp3.1\Phase1Proj.runtimeconfig.json
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\bin\Debug\netcoreapp3.1\Phase1Proj.runtimeconfig.dev.json
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\bin\Debug\netcoreapp3.1\Phase1Proj.dll
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\bin\Debug\netcoreapp3.1\Phase1Proj.pdb
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.dll
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.pdb
+C:\Users\11035909\source\repos\Phase1Proj\Phase1Proj\obj\Debug\netcoreapp3.1\Phase1Proj.genruntimeconfig.cache
